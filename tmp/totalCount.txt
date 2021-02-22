@@ -1,0 +1,32 @@
+count information: 
+person:326
+car:317
+motorbike:210
+traffic sign:75
+bicycle:43
+truck:43
+umbrella:39
+traffic light:25
+bus:7
+backpack:6
+handbag:6
+fire hydrant:2
+dog:1
+pottedplant:1
+parking meter:0
+bench:0
+cat:0
+tie:0
+suitcase:0
+chair:0
+
+panopic information:
+road: appeared
+sidewalk: appeared
+building: appeared
+wall: appeared
+fence: appeared
+pole: appeared
+traffic light: appeared
+traffic sign: appeared
+vegetation: appeared
