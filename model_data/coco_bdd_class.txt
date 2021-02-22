@@ -1,0 +1,18 @@
+person
+bicycle
+car
+motorbike
+bus
+truck
+traffic light
+fire hydrant
+traffic sign
+bench
+cat
+dog
+backpack
+umbrella
+handbag
+suitcase
+chair
+potted plant
